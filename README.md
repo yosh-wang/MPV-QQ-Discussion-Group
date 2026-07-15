@@ -23,11 +23,11 @@
         <tr>
           <td align="center">
             <img src="QQ Group1.jpg" alt="QQ群二维码" width="200"><br>
-            <sub>扫码加入</sub>
+            <sub>欢迎加入MPV大家庭</sub>
           </td>
           <td align="center">
             <img src="QQ Group2.png" alt="群内讨论截图" width="200"><br>
-            <sub>群内讨论氛围</sub>
+            <sub>欢迎加入MPV大家庭</sub>
           </td>
         </tr>
       </table>
