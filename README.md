@@ -4,6 +4,8 @@
 [![Members](https://img.shields.io/badge/群成员-800+-4CAF50)](https://qm.qq.com/q/KQZsl4wFmG)
 
 ---
+> **🎯 mpv · 为画质而生，为技术而狂 · mpv 🎯**
+---
 
 ## 📌 群信息
 
