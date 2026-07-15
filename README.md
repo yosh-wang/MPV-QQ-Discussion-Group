@@ -15,7 +15,7 @@
       <table>
         <tr><td><strong>QQ 群号</strong></td><td><code>1097053691</code></td></tr>
         <tr><td><strong>加入链接</strong></td><td><a href="https://qm.qq.com/q/KQZsl4wFmG">点击加入</a></td></tr>
-        <tr><td><strong>群成员</strong></td><td>800+ MPV 爱好者（玩家 / GitHub 开发者 / 配置党）</td></tr>
+        <tr><td><strong>群成员</strong></td><td>800+ MPV 爱好者）</td></tr>
       </table>
     </td>
     <td width="50%" align="center">
