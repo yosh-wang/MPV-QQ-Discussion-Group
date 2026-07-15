@@ -34,20 +34,21 @@
 
 ## 📦 群内整合包
 
-📦 群内整合包
-1. dyphire/mpv-config
-基于 dyphire/mpv-config 持续同步更新，包含：
+群内长期同步更新以下知名配置方案，并提供使用答疑：
 
-✅ 杜比视界 / HDR 直通 / 滤镜 / 脚本 全配置
+### 1. dyphire/mpv-config
+> 项目地址：https://github.com/dyphire/mpv-config
 
-✅ 图形化用户界面（GUI）
+- ✅ 杜比视界 / HDR 直通 / 滤镜 / 脚本 全配置
+- ✅ 图形化用户界面（GUI）
 
-2. hooke007/mpv_PlayKit
-同步 hooke007/mpv_PlayKit 的配置与玩法讨论，包含：
+### 2. hooke007/mpv_PlayKit
+> 项目地址：https://github.com/hooke007/mpv_PlayKit
 
-✅ 中文注释配置 / 汉化文档，快速入门
+- ✅ 中文注释配置 / 汉化文档，快速入门
+- ✅ 着色器 / 滤镜整合方案，含懒人包（mpv-lazy）
 
-✅ 着色器 / 滤镜整合方案，含懒人包（mpv-lazy）
+---
 
 ### 🖥️ 界面功能一览
 
