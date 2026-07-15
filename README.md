@@ -22,11 +22,11 @@
       <table>
         <tr>
           <td align="center">
-            <img src="QQ Group1.jpg" alt="QQ群二维码" width="140"><br>
+            <img src="QQ Group1.jpg" alt="QQ群二维码" width="200"><br>
             <sub>扫码加入</sub>
           </td>
           <td align="center">
-            <img src="QQ Group2.png" alt="群内讨论截图" width="140"><br>
+            <img src="QQ Group2.png" alt="群内讨论截图" width="200"><br>
             <sub>群内讨论氛围</sub>
           </td>
         </tr>
