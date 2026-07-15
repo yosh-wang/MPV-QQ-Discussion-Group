@@ -32,7 +32,7 @@
 
 ## 📦 群内整合包
 
-群内长期同步更新以下知名配置方案，并提供使用答疑：
+群内长期同步更新、分享以下知名配置方案：
 
 ### 1. dyphire/mpv-config
 > 项目地址：https://github.com/dyphire/mpv-config
