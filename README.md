@@ -11,21 +11,30 @@
 
 ## 📌 群信息
 
+## 📌 群信息
+
 <table>
   <tr>
-    <td width="55%">
+    <td width="50%">
       <table>
         <tr><td><strong>QQ 群号</strong></td><td><code>1097053691</code></td></tr>
         <tr><td><strong>加入链接</strong></td><td><a href="https://qm.qq.com/q/KQZsl4wFmG">点击加入</a></td></tr>
         <tr><td><strong>群成员</strong></td><td>800+ MPV 爱好者（玩家 / GitHub 开发者 / 配置党）</td></tr>
       </table>
     </td>
-    <td width="45%" align="center">
-      <img src="QQ Group1.jpg" alt="QQ群二维码" width="160"><br>
-      <sub>扫码加入</sub>
-      <br><br>
-      <img src="QQ Group2.png" alt="群内讨论截图" width="160"><br>
-      <sub>群内讨论氛围</sub>
+    <td width="50%" align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="QQ Group1.jpg" alt="QQ群二维码" width="140"><br>
+            <sub>扫码加入</sub>
+          </td>
+          <td align="center">
+            <img src="QQ Group2.png" alt="群内讨论截图" width="140"><br>
+            <sub>群内讨论氛围</sub>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
