@@ -1,7 +1,7 @@
 # 🎬 MPV Player · 硬核技术交流群
 
 [![QQ Group](https://img.shields.io/badge/QQ-1097053691-12B7F5?logo=tencent-qq&logoColor=white)](https://qm.qq.com/q/KQZsl4wFmG)
-[![Members](https://img.shields.io/badge/👥-700%2B-4CAF50)]()
+[![Members](https://img.shields.io/badge/👥-800%2B-4CAF50)]()
 
 ---
 
