@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 0;">
       <table>
         <tr><td><strong>QQ 群号</strong></td><td><code>1097053691</code></td></tr>
         <tr><td><strong>加入链接</strong></td><td><a href="https://qm.qq.com/q/KQZsl4wFmG">点击加入</a></td></tr>
@@ -21,23 +21,22 @@
         <tr><td><strong>适合人群</strong></td><td>新手入门 · 玩家折腾 · 开发者交流</td></tr>
       </table>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="padding: 0;">
       <table>
         <tr>
           <td align="center">
             <img src="QQ Group1.jpg" alt="QQ群二维码" width="200"><br>
-            <sub>欢迎加入MPV大家庭</sub>
+            <sub>扫码加入</sub>
           </td>
           <td align="center">
             <img src="QQ Group2.png" alt="群内讨论截图" width="200"><br>
-            <sub>欢迎加入MPV大家庭</sub>
+            <sub>群内讨论氛围</sub>
           </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
-
 ---
 
 ## ✨ MPV 核心技术特性
