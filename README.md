@@ -55,16 +55,21 @@
 
 ---
 
-## 📦 群内整合包（开箱即用）
+## 📦 群内整合包
 
 群内长期同步更新、分享以下知名配置方案：
 
-| 作者 | 项目/仓库 | 特点 |
-| :--- | :--- | :--- |
-| **dyphire** | [mpv-config](https://github.com/dyphire/mpv-config) | 杜比视界/HDR直通/滤镜/脚本全配置 + 图形化GUI |
-| **hooke007** | [mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit) | 中文注释配置/汉化文档，含懒人包（mpv-lazy） |
-| **422658476** | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | 易用性极强的图形界面整合包 |
-| **Yaozhil** | [mpv-config](https://github.com/Yaozhil/mpv-config) | 轻量级配置方案，适合进阶定制 |
+### 1. dyphire/mpv-config
+> 项目地址：https://github.com/dyphire/mpv-config
+
+- ✅ 杜比视界 / HDR 直通 / 滤镜 / 脚本 全配置
+- ✅ 图形化用户界面（GUI）
+
+### 2. hooke007/mpv_PlayKit
+> 项目地址：https://github.com/hooke007/mpv_PlayKit
+
+- ✅ 中文注释配置 / 汉化文档，快速入门
+- ✅ 着色器 / 滤镜整合方案，含懒人包（mpv-lazy）
 
 ---
 
