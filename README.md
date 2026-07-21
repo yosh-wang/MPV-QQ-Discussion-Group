@@ -15,7 +15,7 @@
       <table>
         <tr><td><strong>QQ 群号</strong></td><td><code>1097053691</code></td></tr>
         <tr><td><strong>加入链接</strong></td><td><a href="https://qm.qq.com/q/KQZsl4wFmG">点击加入</a></td></tr>
-        <tr><td><strong>群成员</strong></td><td>800+ MPV </td></tr>
+        <tr><td><strong>群成员</strong></td><td>800+ MPV 玩家</td></tr>
         <tr><td><strong>群性质</strong></td><td>热心发电 · 免费交流</td></tr>
         <tr><td><strong>分享内容</strong></td><td>配置 / 脚本 / 着色器 / 懒人包</td></tr>
         <tr><td><strong>适合人群</strong></td><td>新手入门·玩家折腾·开发者交流</td></tr>
@@ -27,10 +27,10 @@
       <table>
         <tr>
           <td align="center">
-            <img src="QQ Group1.jpg" alt="QQ群二维码" width="200">
+            <img src="你的二维码图床链接.jpg" alt="QQ群二维码" width="200">
           </td>
           <td align="center">
-            <img src="QQ Group2.png" alt="群内讨论截图" width="200">
+            <img src="你的群内截图图床链接.png" alt="群内讨论截图" width="200">
           </td>
         </tr>
       </table>
@@ -55,25 +55,20 @@
 
 ---
 
-## 📦 群内整合包
+## 📦 群内整合包（开箱即用）
 
 群内长期同步更新、分享以下知名配置方案：
 
-### 1. dyphire/mpv-config
-> 项目地址：https://github.com/dyphire/mpv-config
-
-- ✅ 杜比视界 / HDR 直通 / 滤镜 / 脚本 全配置
-- ✅ 图形化用户界面（GUI）
-
-### 2. hooke007/mpv_PlayKit
-> 项目地址：https://github.com/hooke007/mpv_PlayKit
-
-- ✅ 中文注释配置 / 汉化文档，快速入门
-- ✅ 着色器 / 滤镜整合方案，含懒人包（mpv-lazy）
+| 作者 | 项目/仓库 | 特点 |
+| :--- | :--- | :--- |
+| **dyphire** | [mpv-config](https://github.com/dyphire/mpv-config) | 杜比视界/HDR直通/滤镜/脚本全配置 + 图形化GUI |
+| **hooke007** | [mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit) | 中文注释配置/汉化文档，含懒人包（mpv-lazy） |
+| **422658476** | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | 易用性极强的图形界面整合包 |
+| **Yaozhil** | [mpv-config](https://github.com/Yaozhil/mpv-config) | 轻量级配置方案，适合进阶定制 |
 
 ---
 
-### 🖥️ 界面功能一览
+## 🖥️ 界面功能一览
 
 | 功能 | 说明 |
 | :--- | :--- |
@@ -86,6 +81,47 @@
 | **其他增强** | 音量/亮度/对比度/饱和度/伽马独立调节、着色器一键切换、字幕实时下载、AI 字幕 |
 
 ---
+
+## 🧰 MPV 生态资源大全（群内同步更新）
+
+> 以下链接覆盖官方、PC编译、Android端及实用插件，建议收藏。
+
+### 1. MPV 官方资源
+| 资源 | 链接 |
+| :--- | :--- |
+| **官网** | [https://mpv.io/](https://mpv.io/) |
+| **官方手册** | [https://mpv.io/manual/master/](https://mpv.io/manual/master/) |
+| **GitHub 仓库** | [https://github.com/mpv-player/mpv](https://github.com/mpv-player/mpv) |
+| **社区 Wiki** | [https://github.com/mpv-player/mpv/wiki](https://github.com/mpv-player/mpv/wiki) |
+| **下载安装** | [https://mpv.io/installation/](https://mpv.io/installation/) |
+| **Bug 反馈** | [https://github.com/mpv-player/mpv/issues](https://github.com/mpv-player/mpv/issues) |
+
+### 2. PC 端第三方编译版（纯净软件，无配置包）
+| 维护者 | 链接 |
+| :--- | :--- |
+| **shinchiro** | [前往下载](https://github.com/shinchiro/mpv-winbuild-cmake/releases) |
+| **zhongfly** | [前往下载](https://github.com/zhongfly/mpv-winbuild/releases) |
+| **dyphire** | [前往下载](https://github.com/dyphire/mpv-winbuild/releases) |
+
+### 3. Android 端播放器
+| 项目 | 链接 |
+| :--- | :--- |
+| **官方安卓** | [mpv-android](https://github.com/mpv-android/mpv-android) |
+| **NextPlayerCloud** | [NextPlayerCloud](https://github.com/NextPlayerCloud/NextPlayerCloud) |
+| **mpvRx** | [mpvRx](https://github.com/Riteshp2001/mpvRx) |
+| **mpvRex** | [mpvRex](https://github.com/sfsakhawat999/mpvRex) |
+| **mpvEx** | [mpvEx](https://github.com/marlboro-advance/mpvEx) |
+| **mpvEx-CN** | [mpvEx-CN](https://github.com/azxcvn/mpvEx-CN) |
+| **Android TV (mpvNova)** | [mpvNova](https://github.com/Laskco/mpvNova) |
+
+### 4. 实用脚本/插件推荐
+| 项目 | 说明 | 链接 |
+| :--- | :--- | :--- |
+| **stats.lua 汉化版** | 播放统计信息界面汉化 | [yosh-wang/mpv-stats.lua-zh](https://github.com/yosh-wang/mpv-stats.lua-zh-chinese-translation-) |
+| **auto_bluray** | 蓝光原盘ISO自动挂载播放方案 | [yosh-wang/auto_bluray-ISO](https://github.com/yosh-wang/auto_bluray-ISO-) |
+
+---
+
 ## 📌 关于建立本群的初衷想法
 
 本群是为国内 MPV 爱好者建立的免费交流群，初衷很简单：
@@ -119,6 +155,7 @@
 - 📜 脚本开发（OSC 修改、弹幕下载、补帧、AI 字幕相关）
 - 🐛 Bug 排查（解码报错、渲染撕裂、音画不同步等）
 - 📦 Windows 第三方编译版（shinchiro / zhongfly / dyphire，实时更新）
+- 📱 Android / TV 端移植与适配
 
 ---
 
