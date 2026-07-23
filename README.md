@@ -47,7 +47,7 @@
 | **渲染器** | `gpu-next`，支持 Vulkan / OpenGL / D3D11 后端 |
 | **色彩管理** | ICC 配置 / 3D LUT 校准 / BT.709 / BT.2020 精确映射 |
 | **杜比视界** | Profile 5 / 8.1 / 7    [FEL](https://github.com/mpv-player/mpv/pull/17932) 完整支持，合成BL+EL+RPU实现12bit色深处理链 |
-| **HDR** | 峰值亮度自适应，支持 HDR10+ 直通 |
+| **HDR** | 支持 HDR10+ 直通,支持静态/动态双模式映射，峰值亮度可自定义适配 |
 | **算法** | EWA Lanczos / FSRCNNX / Anime4K / RAVU |
 | **硬件解码** | DXVA2 / D3D11VA / Vulkan / VAAPI / VDPAU 全后端 |
 | **扩展性** | Lua 脚本 API，定制播放逻辑、界面、补帧等 |
