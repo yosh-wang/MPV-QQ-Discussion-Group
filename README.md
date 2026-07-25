@@ -1,4 +1,8 @@
-# 🎬 MPV Player · 硬核技术交流群   🎯 mpv · 为画质而生，为技术而狂 · mpv 🎯
+<p align="center">
+  <span style="font-size: 28px;">🎬 MPV Player · 硬核技术交流群</span>
+  &nbsp;&nbsp;&nbsp;
+  <span style="font-size: 16px;">🎯 mpv · 为画质而生，为技术而狂 · mpv 🎯</span>
+</p>
 
 ---
 
