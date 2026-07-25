@@ -1,4 +1,4 @@
-# 🎬 MPV Player · 硬核技术交流群
+# 🎬 MPV Player · 硬核技术交流群   🎯 mpv · 为画质而生，为技术而狂 · mpv 🎯
 
 ---
 <p align="center">
@@ -8,10 +8,6 @@
   <a href="https://qm.qq.com/q/KQZsl4wFmG">
     <img src="https://img.shields.io/badge/群成员-800+-4CAF50" alt="群成员">
   </a>
-</p>
-
-<p align="center">
-  <strong>🎯 mpv · 为画质而生，为技术而狂 · mpv 🎯</strong>
 </p>
 
 ---
