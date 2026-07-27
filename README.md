@@ -90,39 +90,62 @@
 
 > 以下链接覆盖官方、PC编译、Android端及实用插件，建议收藏。
 
-### 1. MPV 官方资源
+### 1. MPV 资源
+
 | 资源 | 链接 |
-| :--- | :--- |
-| **官网** | [https://mpv.io/](https://mpv.io/) |
-| **官方手册** | [https://mpv.io/manual/master/](https://mpv.io/manual/master/) |
-| **GitHub 仓库** | [https://github.com/mpv-player/mpv](https://github.com/mpv-player/mpv) |
-| **社区 Wiki** | [https://github.com/mpv-player/mpv/wiki](https://github.com/mpv-player/mpv/wiki) |
-| **下载安装** | [https://mpv.io/installation/](https://mpv.io/installation/) |
-| **Bug 反馈** | [https://github.com/mpv-player/mpv/issues](https://github.com/mpv-player/mpv/issues) |
+|------|------|
+| 官网 | https://mpv.io/ |
+| 官方手册 | https://mpv.io/manual/master/ |
+| GitHub 仓库 | https://github.com/mpv-player/mpv |
+| 社区 Wiki | https://github.com/mpv-player/mpv/wiki |
+| 下载安装 | https://mpv.io/installation/ |
+| Bug 反馈 | https://github.com/mpv-player/mpv/issues |
 
-### 2. PC 端第三方编译版（纯净软件，无配置包）
-| 维护者 | 链接 |
-| :--- | :--- |
-| **shinchiro** | [前往下载](https://github.com/shinchiro/mpv-winbuild-cmake/releases) |
-| **zhongfly** | [前往下载](https://github.com/zhongfly/mpv-winbuild/releases) |
-| **dyphire** | [前往下载](https://github.com/dyphire/mpv-winbuild/releases) |
+---
 
-### 3. Android 端播放器
-| 项目 | 链接 |
-| :--- | :--- |
-| **官方安卓** | [mpv-android](https://github.com/mpv-android/mpv-android) |
-| **NextPlayerCloud** | [NextPlayerCloud](https://github.com/NextPlayerCloud/NextPlayerCloud) |
-| **mpvRx** | [mpvRx](https://github.com/Riteshp2001/mpvRx) |
-| **mpvRex** | [mpvRex](https://github.com/sfsakhawat999/mpvRex) |
-| **mpvEx** | [mpvEx](https://github.com/marlboro-advance/mpvEx) |
-| **mpvEx-CN** | [mpvEx-CN](https://github.com/azxcvn/mpvEx-CN) |
-| **Android TV (mpvNova)** | [mpvNova](https://github.com/Laskco/mpvNova) |
+### 2. PC端编译版（纯净软件，无配置包）
 
-### 4. 实用脚本/插件推荐
-| 项目 | 说明 | 链接 |
-| :--- | :--- | :--- |
-| **stats.lua 汉化版** | 播放统计信息界面汉化 | [yosh-wang/mpv-stats.lua-zh](https://github.com/yosh-wang/mpv-stats.lua-zh-chinese-translation-) |
-| **auto_bluray** | 蓝光原盘ISO自动挂载播放方案 | [yosh-wang/auto_bluray-ISO](https://github.com/yosh-wang/auto_bluray-ISO-) |
+| 维护者 | GITHUB.链接 | 微云下载 | 夸克下载 |
+|--------|------|----------|----------|
+| shinchiro 🔥 | [shinchiro/mpv-winbuild-cmake](https://github.com/shinchiro/mpv-winbuild-cmake/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
+| zhongfly | [zhongfly/mpv-winbuild](https://github.com/zhongfly/mpv-winbuild/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
+| dyphire | [dyphire/mpv-winbuild](https://github.com/dyphire/mpv-winbuild/releases) | [微云下载](https://share.weiyun.com/YfWKGlfe) | [夸克下载](https://pan.quark.cn/s/c2ab672d1d47) |
+
+---
+
+### 3. 整合包推荐（带图形界面 UI / 配置文件）🔥🔥🔥🔥🔥
+
+| 项目 | 说明 | GITHUB.链接 | 微云下载 | 夸克下载 |
+|------|------|------|----------|----------|
+| dyphire/mpv-config 🔥 | 杜比视界 / HDR 直通 / 全配置 | [dyphire/mpv-config](https://github.com/dyphire/mpv-config) | [微云下载](https://share.weiyun.com/yT0v48Fm) | [夸克下载](https://pan.quark.cn/s/06e105d5a34d) |
+| hooke007/mpv_PlayKit 🔥 | 超分补帧/ 懒人包 | [hooke007/mpv_PlayKit](https://github.com/hooke007/mpv_PlayKit) | [微云下载](https://share.weiyun.com/EmG9jBG2) | [夸克下载](https://pan.quark.cn/s/bb8a104dd066) |
+| MPV-EASY-Player | 开箱即用的图形界面播放器 | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) | [微云下载](https://share.weiyun.com/UGIn1bGz) | [夸克下载](https://pan.quark.cn/s/6c19322f8eba) |
+| mpv.net | 基于.NET图形界面 | [mpv.net](https://github.com/mpvnet-player/mpv.net) | — | — |
+| mpv.net-DW | mpv.net定制版 | [mpv.net-DW](https://github.com/diana7127/mpv.net-DW) | — | — |
+
+---
+
+### 4. Android 端播放器
+
+| 项目 | 特色 | GITHUB.链接 | 微云下载 | 夸克下载 |
+|------|------|------|----------|----------|
+| 官方安卓 | MPV 官方维护的 Android 版本 | [mpv-android](https://github.com/mpv-android/mpv-android) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| NextPlayerCloud 🔥 | 支持云端同步播放进度 | [NextPlayerCloud](https://github.com/NextPlayerCloud/NextPlayerCloud) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| mpvRx | 基于 RxJava 响应式架构 | [mpvRx](https://github.com/Riteshp2001/mpvRx) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| mpvRex | 功能增强扩展版 | [mpvRex](https://github.com/sfsakhawat999/mpvRex) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| mpvEx | 轻量化精简版本 | [mpvEx](https://github.com/marlboro-advance/mpvEx) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| mpvEx-CN | mpvEx 中文定制版 | [mpvEx-CN](https://github.com/azxcvn/mpvEx-CN) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+| Android TV (mpvNova) | 专为 Android TV 优化 | [mpvNova](https://github.com/Laskco/mpvNova) | [微云下载](https://share.weiyun.com/6v2y6uuI) | [夸克下载](https://pan.quark.cn/s/8a10888fc561) |
+
+---
+
+### 5. 实用脚本 / 插件
+
+| 项目 | 说明 | GITHUB.链接 |
+|------|------|------|
+| stats.lua 汉化版 🔥 | 播放统计信息界面汉化 | [yosh-wang/mpv-stats.lua-zh](https://github.com/yosh-wang/mpv-stats.lua-zh-chinese-translation-) |
+| auto_bluray 🔥 | 蓝光原盘 ISO 自动挂载播放方案 | [yosh-wang/auto_bluray-ISO](https://github.com/yosh-wang/auto_bluray-ISO-) |
+| uosc Video Tags 🔥 | 视频技术标签模块 | [yosh-wang/uosc-video-tags](https://github.com/yosh-wang/uosc-video-tags) |
 
 ---
 
